@@ -1,0 +1,10 @@
+Será necesario para implementar la base de datos compilar en orden los archivos con los siguientes pasos:
+0- Creación de esquema y tabla.
+1- Inserción de datos: contiene los scripts y archivos .csv de importación de datos.
+2- Vistas: contiene las views del proyecto.
+3- Funciones: contiene el script que escribe el código de las funciones.
+4- Procedimientos almacenados: contiene el script con los stored procedures empleados en el proyecto.
+5- Triggers: contiene EL script que configura los disparadores de evento.
+6- DCL: contiene el script de creación de usuarios.
+7- TCL: contiene scripts de lenguaje de control transacional aplicado a ciertas tablas.
+8- Backup: copias de seguridad y respaldo de la BBDD.
